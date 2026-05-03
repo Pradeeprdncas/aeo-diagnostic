@@ -18,5 +18,4 @@ Analyzes brand visibility across multiple AI models (Groq, Mistral, OpenRouter)
 - AI APIs (Groq, Mistral, OpenRouter)
 
 ## Live Demo
-[Your deployed link]
-
+https://aeo-diagnostic-v2.vercel.app/
