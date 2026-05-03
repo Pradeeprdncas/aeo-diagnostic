@@ -2,23 +2,21 @@
 
 AI Visibility Analytics Tool
 
-## 🚀 What it does
+## What it does
 Analyzes brand visibility across multiple AI models (Groq, Mistral, OpenRouter)
 
-## 🧠 Features
+## Features
 - Multi-model comparison
 - Visibility scoring system
 - AI agreement metric
 - Insight generation
 - Report card system
 
-## 🛠 Tech Stack
+## Tech Stack
 - React
 - Node.js / Express
 - AI APIs (Groq, Mistral, OpenRouter)
 
-## 🔗 Live Demo
+## Live Demo
 [Your deployed link]
 
-## 📸 Screenshots
-(Add 1–2 UI images here)
