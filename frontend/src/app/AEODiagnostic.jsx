@@ -115,7 +115,7 @@ export default function AEODiagnosticV2() {
     if (!query.trim()) { setError('Please enter a search query'); return; }
     setLoading(true); setError(''); setData(null);
     try {
-      const res = await fetch('http://localhost:5000/api/analyze', {
+      const res = await fetch('https://aeo-diagnostic-4tps.onrender.com/api/analyze', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query }),
