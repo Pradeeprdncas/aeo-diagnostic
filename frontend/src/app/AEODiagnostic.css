@@ -1428,4 +1428,4 @@
 .v2-empty__icon { display: flex; align-items: center; justify-content: center; width: 4rem; height: 4rem; margin-bottom: 1.25rem; border-radius: var(--v2-radius-2xl); border: 1px solid var(--v2-gray-200); background: var(--v2-white); box-shadow: var(--v2-shadow-sm); }
 .v2-empty__icon svg { width: 1.75rem; height: 1.75rem; color: var(--v2-gray-300); }
 .v2-empty__title { font-size: 1rem; font-weight: 600; color: var(--v2-gray-700); }
-.v2-empty__desc { margin-top: 0.5rem; max-width: 20rem; font-size: 0.875rem; color: var(--v2-gray-400); line-height: 1.5; } 
+.v2-empty__desc { margin-top: 0.5rem; max-width: 20rem; font-size: 0.875rem; color: var(--v2-gray-400); line-height: 1.5; }
